@@ -1,2 +1,3 @@
 # Dream-Destinations
-The codebase for a dynamic travel website that offers users booking services, travel guides, and extensive travel information is hosted in this repository. Utilising cutting-edge web technology, the website is made to be both user-friendly and responsive, improving user experience. 
+Dream-Destinations is your ultimate guide to finding and planning the vacation of your dreams. Whether you’re seeking a serene beach escape, an adventurous mountain trek, or a culturally rich city experience, we’ve got you covered. 
+Find the best deals on flights, accommodations, and activities through our partnerships with top travel providers.
